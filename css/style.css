@@ -1,0 +1,28 @@
+.btn{
+    width: 10%;
+    background-color: rgb(169, 166, 166);
+    font-weight: bold;
+    font-size:18px;
+    color: rgb(192, 0, 118);
+    padding: 10px;
+}
+
+
+.name-passenger{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.detail-passenger{
+    font-size: 24px;
+    font-weight: bold;
+    
+
+}
+
+#name{
+    text-decoration: underline;
+    color: #fff;
+
+}
